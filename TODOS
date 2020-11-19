@@ -1,0 +1,13 @@
+# TODO implement init command
+    # TODO create project repository_config.json
+    # TODO write project repository_config.json
+    # TODO create .status folder
+    # TODO create *.log file
+# TODO implement add command
+    # TODO user interface
+        # TODO Input webhook secret
+        # TODO input desired api endpoints
+        # TODO 
+# TODO implement list command
+# TODO implement remove command
+# TODO implement run command

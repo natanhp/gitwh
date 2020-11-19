@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Runtime
+# --- User Configuration
+config.json
+# --- Status Folder
+statuses/
+*.status
